@@ -1,0 +1,6 @@
+platform:ios,'8.0'
+target'socketDemo'do
+pod'CocoaAsyncSocket', '7.4.1'
+pod'MJExtension'
+pod'AFNetworking'
+end
